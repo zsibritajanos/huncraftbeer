@@ -5,8 +5,6 @@
  */
 define("SITE_TITLE", "Magyar Kézműves Sörök");
 
-
-
 /**
  * brewery
  */

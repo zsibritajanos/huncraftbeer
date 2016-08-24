@@ -2,3 +2,6 @@ huncraftbeer.iml
 backend/backend.iml
 /.idea/
 *.bak
+.DS_Store
+MyProject.komodoproject
+backend/.DS_Store
